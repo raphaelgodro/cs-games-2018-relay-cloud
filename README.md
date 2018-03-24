@@ -1,5 +1,7 @@
 # Java micro-services
 
+![alt text](http://i0.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg "Logo Title Text 1")
+
 ## Build
 build all projects
 ```
